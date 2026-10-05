@@ -1,0 +1,15 @@
+# Arquivos de place gerados pelo Rojo (rojo build) e backups do Studio
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Sourcemap gerado para o luau-lsp
+sourcemap.json
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
